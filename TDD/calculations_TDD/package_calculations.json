@@ -1,0 +1,13 @@
+{
+  "name": "calculations",
+  "version": "1.0.0",
+  "description": "A calculator for practicing Jest tests",
+  "main": "calculations.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "devDependencies": {
+    "jest": "^22.1.3"
+  }
+}
